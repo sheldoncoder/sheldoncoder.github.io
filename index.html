@@ -22,6 +22,18 @@
       header {
         text-align: right;
         }
+      
+      .loader {
+        border-top: 16px solid blue;
+        border-right: 16px solid green;
+        border-bottom: 16px solid black;
+        border-left: 16px solid green;
+        }
+      
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+        }
     </style>
     
     <script type="text/javascript"> 
@@ -47,6 +59,20 @@
     </header>
     
     <main>
+      
+      <div class="loader"></div>
+     
+      <div>
+        <a href="url">LINK</a>
+      </div>
+      </br>
+      <div>
+        <a href="url">LINK</a>
+      </div>
+      </br>
+      <div>
+        <a href="url">LINK</a> 
+      </div>
       
     </main>
     
