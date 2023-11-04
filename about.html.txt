@@ -1,0 +1,491 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GL2TW88NVH"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-GL2TW88NVH');
+    </script>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/ico/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/ico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/ico/favicon-16x16.png">
+    <link rel="manifest" href="assets/ico/site.webmanifest">
+    <link rel="mask-icon" href="assets/ico/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="assets/ico/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/libs/flickity/dist/flickity.min.css">
+    <link rel="stylesheet" href="assets/libs/flickity-fade/flickity-fade.css">
+    <link rel="stylesheet" href="assets/libs/fullpage.js/dist/fullpage.min.css">
+    <link rel="stylesheet" href="assets/libs/highlightjs/styles/codepen-embed.css">
+    <link rel="stylesheet" href="assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="assets/libs/incline-icons/style.min.css">
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="assets/css/theme.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <title>InTown | About</title>
+  </head>
+  <body>
+
+    <!-- NAVBAR
+    ================================================= -->
+    <nav class="navbar navbar-expand-xl navbar-light fixed-top">
+      <div class="container">
+
+        <!-- Brand -->
+        <a class="navbar-brand" href="index.html">
+          <img src="assets/img/intown.png" class="img-fluid">
+        </a>
+
+        <!-- Toggler -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Collapse -->
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+
+          <!-- Social -->
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item-divider">
+              <span class="nav-link">
+                <span></span>
+              </span>
+            </li>
+            <li class="nav-item">
+              <a href="https://www.facebook.com/intowntech.us/" class="nav-link" target="_blank">
+                <i class="fab fa-facebook"></i>
+                <span class="d-xl-none ml-2">
+                  Facebook
+                </span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://twitter.com/intown_tech" class="nav-link" target="_blank">
+                <i class="fab fa-twitter"></i>
+                <span class="d-xl-none ml-2">
+                  Twitter
+                </span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a href="https://www.instagram.com/intowntech/" class="nav-link" target="_blank">
+                <i class="fab fa-instagram"></i>
+                <span class="d-xl-none ml-2">
+                  Instagram
+                </span>
+              </a>
+            </li>
+          </ul>
+
+          <!-- Links -->
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarWelcome" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Welcome
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarWelcome">
+                <a class="dropdown-item " href="index.html#pages">
+                  What Does InTown Do ?
+                </a>
+                <a class="dropdown-item  active " href="index.html#intownexcellence">
+                  InTown Excellence.
+                </a>
+                <a class="dropdown-item " href="index.html#techtalk">
+                  Tech Talk
+                </a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarLandings" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Products
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarLandings">
+                <a class="dropdown-item " href="app.html">
+                  App Development
+                </a>
+                <a class="dropdown-item active" href="web.html">
+                  Website Development
+                </a>
+                <a class="dropdown-item " href="index.html#pages">
+                  Digital Marketing
+                </a>
+                <a class="dropdown-item " href="index.html#pages">
+                  Project Management
+                </a>
+                <a class="dropdown-item " href="index.html#pages">
+                  IT Infrustructure Management
+                </a>
+                <a class="dropdown-item " href="index.html#pages">
+                  Cyber Security
+                </a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarPages" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                About Us
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarPages">
+                <li class="dropright">
+                  <a class="dropdown-item dropdown-toggle" href="#" id="pagesBlog" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Our Story
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="pagesBlog">
+                    <a class="dropdown-item " href="#">
+                     Company Mission
+                    </a>
+                    <a class="dropdown-item " href="#">
+                      Background
+                    </a>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarComponents" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Our Team
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarComponents">
+                <a class="dropdown-item " href="#">
+                  Executives
+                </a>
+              </div>
+            </li>
+            <li class="nav-item ">
+              <a href="index.html#techtalk" class="nav-link">
+                Tech Talk
+              </a>
+            </li>
+            <li class="nav-item-divider">
+              <span class="nav-link">
+                <span></span>
+              </span>
+            </li>
+            <li class="nav-item">
+              <a href="contact.html" class="nav-link">
+                Contact Us
+              </a>
+            </li>
+          </ul>
+
+        </div> <!-- / .navbar-collapse -->
+
+      </div> <!-- / .container -->
+    </nav>
+
+    <!-- BREADCRUMB
+    ================================================== -->
+    <nav class="breadcrumb">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col">
+
+            <!-- Heading -->
+            <h5 class="breadcrumb-heading">
+              About
+            </h5>
+
+          </div>
+          <div class="col-auto">
+
+            <!-- Breadcrumb -->
+            <span class="breadcrumb-item">
+              <a href="index.html">Home</a>
+            </span>
+            <span class="breadcrumb-item active">
+              About
+            </span>
+
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+    </nav>
+
+    <!-- HEADER
+    ================================================== -->
+    <section class="section pb-0">
+
+      <!-- Content -->
+      <div class="container">
+        <div class="row">
+          <div class="col">
+
+            <!-- Header -->
+            <div class="header bg-cover" style="background-image: url(assets/img/15.jpg);"></div>
+
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+
+    </section>
+
+    <!-- ABOUT
+    ================================================== -->
+    <section class="section pb-0">
+
+      <!-- Content -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2">
+
+            <!-- Title -->
+            <h6 class="title">
+              Two words about our company
+            </h6>
+
+          </div>
+          <div class="col-md-5">
+
+            <!-- Heading -->
+            <h3 class="mb-4">
+              We help small to medium sized businesses <span class="text-primary">modernize their business</span> and<span class="text-primary"> increase technology utlization.</span>
+            </h3>
+
+            <!-- Content -->
+            <blockquote class="blockquote">
+              <p class="mb-0">
+                Two of our primary goals at InTown is to educate and facilitate. We will fill the gap between small business and efficent technology utilization.
+              </p>
+            </blockquote>
+            <p class="text-muted">
+              In modern day society, change is inevitable. Small business, now more than ever, play a large role in the growth of local economies.
+            </p>
+
+          </div>
+          <div class="col-md-5">
+
+            <!-- Content -->
+
+            <p class="text-muted">
+              Savvy business leaders are utilizing their creativity to build amazing businesses, and grow there local economies. These leaders are tasked with many daily items that may become overwhelming, and InTown Technology must help.
+            </p>
+            <p class="text-muted">
+              One of the fastest growing business trends is technology, and if your business is not hip to the latest technology your company will fall behind. You may ask yourself why do I need to focus on tech? I am not a tech business.
+            </p>
+            <p class="text-muted">
+              That is were InTown Tech comes into play. We are your one stop shop IT partner. You name it. We do it.
+            </p>
+
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+
+    </section>
+
+    <!-- TEAM
+    ================================================== -->
+    <section class="section pb-0">
+
+      <!-- Content -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2">
+
+            <!-- Title -->
+            <h6 class="title">
+              Our Founders
+            </h6>
+
+          </div>
+          <div class="col-md-10">
+
+            <!-- Heading -->
+            <h3 class="mb-4">
+              Who is InTown?
+            </h3>
+
+            <!-- Subheading -->
+            <p class="text-muted mb-5">
+              InTown was founded by two college students with aspirations of making an impact on the community through innovative technology. Meet our team.
+            </p>
+
+            <!-- Team -->
+            <div class="row">
+              <div class="col-md-4">
+
+                <!-- Card -->
+                <div class="card card-sm border-0 mb-3 mb-md-0">
+
+                  <!-- Image -->
+                  <img src="assets/img/98.jpg" alt="..." class="card-img-top">
+
+                  <!-- Body -->
+                  <div class="card-body">
+
+                    <!-- Title -->
+                    <h5 class="card-title">
+                      Sheldon Miller, MBA <small class="text-muted"> CEO and Co-Founder</small>
+                    </h5>
+
+                  </div>
+
+                </div> <!-- / .card -->
+
+              </div>
+
+              <div class="col-md-4">
+
+                <!-- Card -->
+                <div class="card card-sm border-0 mb-3 mb-md-0">
+
+                  <!-- Image -->
+                  <img src="assets/img/52.jpg" alt="..." class="card-img-top">
+
+                  <!-- Body -->
+                  <div class="card-body">
+
+                    <!-- Title -->
+                    <h5 class="card-title">
+                      Jelani Hughes, MBA <small class="text-muted"> VP and Co-Founder</small>
+                    </h5>
+
+                  </div>
+
+                </div> <!-- / .card -->
+              </div>
+
+                <div class="col-md-4">
+                <!-- Card -->
+
+                <div class="card card-sm border-0 mb-3 mb-md-0">
+
+                  <!-- Image -->
+                  <img src="assets/img/100.png" alt="..." class="card-img-top">
+
+                  <!-- Body -->
+                  <div class="card-body">
+
+                    <!-- Title -->
+                    <h5 class="card-title">
+                      Dwayne Christian <small class="text-muted"> VP of IT</small>
+                    </h5>
+
+                  </div>
+
+                </div> <!-- / .card -->
+
+              </div>
+
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+
+    </section>
+
+    <!-- FOOTER
+    ================================================== -->
+    <footer class="section bg-dark">
+
+      <!-- Triangles -->
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
+
+      <!--Content -->
+      <div class="container">
+        <div class="row align-self-center">
+          <div class="col-md-auto">
+
+            <!-- Brand -->
+            <p>
+              <a href="#" class="footer-brand text-white">
+              </a>
+            </p>
+
+          </div>
+          <div class="col-md">
+
+            <!-- Links -->
+            <ul class="list-unstyled list-inline text-md-center">
+              <li class="list-inline-item mr-2">
+                <a href="#" class="text-white">
+                  Terms and conditions
+                </a>
+              </li>
+              <li class="list-inline-item mr-2">
+                <a href="#" class="text-white">
+                  Privacy policy
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="contact.html" class="text-white">
+                  Contact us
+                </a>
+              </li>
+            </ul>
+
+          </div>
+        </div> <!-- / .row -->
+        <div class="row align-items-center">
+          <div class="col-md">
+
+            <!-- Copyright -->
+            <p class="text-white text-muted">
+              <small>
+                &copy; Copyright <span class="current-year"></span> InTown Technology, LLC. All rights reserved.
+              </small>
+            </p>
+
+          </div>
+          <div class="col-md">
+
+            <!-- Social links -->
+            <ul class="list-inline list-unstyled text-md-right">
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/intowntech.us/" target="_blank">
+                  <i class="fab fa-facebook"></i>
+                </a>
+              </li>
+              <li class="list-inline-item ml-3">
+                <a href="https://twitter.com/intown_tech" target="_blank">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item ml-3">
+                <a href="https://www.instagram.com/intowntech/" target="_blank">
+                  <i class="fab fa-instagram"></i>
+                </a>
+              </li>
+            </ul>
+
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+
+    </footer>
+
+    <!-- JAVASCRIPT
+    ================================================== -->
+    <!-- Global JS -->
+    <script src="assets/libs/jquery/dist/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnKt8_N4-FKOnhI_pSaDL7g_g-XI1-R9E"></script>
+
+    <!-- Plugins JS -->
+    <script src="assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/libs/flickity/dist/flickity.pkgd.min.js"></script>
+    <script src="assets/libs/flickity-fade/flickity-fade.js"></script>
+    <script src="assets/libs/jquery-parallax.js/parallax.min.js"></script>
+    <script src="assets/libs/waypoints/lib/jquery.waypoints.min.js"></script>
+    <script src="assets/libs/waypoints/lib/shortcuts/inview.min.js"></script>
+    <script src="assets/libs/fullpage.js/vendors/scrolloverflow.min.js"></script>
+    <script src="assets/libs/fullpage.js/dist/fullpage.min.js"></script>
+    <script src="assets/libs/highlightjs/highlight.pack.min.js"></script>
+
+    <!-- Theme JS -->
+    <script src="assets/js/theme.min.js"></script>
+
+  </body>
+</html>
