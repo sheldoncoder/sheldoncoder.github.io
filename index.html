@@ -282,7 +282,7 @@
         
         <div class="container">
           
-          <a class="navbar-brand active" href="#">
+          <a class="navbar-brand active" onclick="document.getElementById('intownearth').style.display='block'" id="navbarPages">
             <img src="assets/img/intownearth.png" class="img-fluid text-center">
           </a>
 
@@ -296,6 +296,27 @@
         </div>
       
       </nav>
+
+      <div id="intownearth" class="w3-modal">
+        
+        <div class="w3-modal-content w3-animate-zoom">
+            
+            <div class="w3-container w3-gray w3-text-white w3-display-container">
+                <span onclick="document.getElementById('intownearth').style.display='none'">x</span>
+                <h1>InTown</h1>
+            </div>
+            
+            <div class="w3-container">
+                    
+                <p>
+                    MMM exists to oversee the InTown brand. Our operations include mergers and acquisitions, executive management, investments, and staffing.
+                </p>
+                    
+            </div>
+        
+        </div>
+    
+    </div>
     
     </footer>
 
