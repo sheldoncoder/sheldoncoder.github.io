@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/libs/flickity/dist/flickity.min.css">
+    <link rel="stylesheet" href="assets/libs/flickity-fade/flickity-fade.css">
+    <link rel="stylesheet" href="assets/libs/fullpage.js/dist/fullpage.min.css">
+    <link rel="stylesheet" href="assets/libs/highlightjs/styles/codepen-embed.css">
+    <link rel="stylesheet" href="assets/libs/@fortawesome/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="assets/libs/incline-icons/style.min.css">
+    
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="assets/css/theme.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <style>   
+    
+      body{
+        font-family: 'Copperplate' , monospace;
+      }
+    
+      #reading{
+        font-family: 'Courier New' , monospace;
+      }
+      
+    </style>
+  
+   
+    <title>Welcome InTown for Businesses</title>
+  
+  </head>
+  
+  <body>
+    
+    <nav class="navbar navbar-expand-xl fixed-top" style="background-color: black;">
+      
+      <div class="container">
+        
+        <a class="navbar-brand" href="index.html">
+          <img src="assets/img/intown.PNG" class="img-fluid">
+        </a>
+        
+        <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          
+          <ul class="navbar-nav ml-auto">
+            
+            <li class="nav-item">
+              <a class="navbar-brand" href="index.html">
+                 The "I.B.R"
+              </a>
+            </li>
+            
+            <li class="nav-item-divider">
+              <span class="nav-link">
+                <span></span>
+              </span>
+            </li>
+            
+            <li class="nav-item">
+              <a class="navbar-brand" href="mailto:sheldon@intowntechnology.com">
+                Contact Us
+              </a>
+            </li>
+            
+          </ul>
+          
+        </div> <!-- / .navbar-collapse -->
+        
+      </div> <!-- / .container -->
+      
+    </nav>
+    
+    <section class="section section-top">
+      <div class="bg-cover" style="background-image: url(assets/img/nycintown.PNG);"></div>
+      <div class="bg-overlay"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
+      
+      <!-- Content -->
+      <div class="container">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-12 col-md-8 col-lg-7 order-md-2">
+            
+            <h1 class="text-white text-center mb-6" data-toggle="animation" data-animation="fadeUp" data-animation-order="1" data-animation-trigger="load">
+              Are you a business owner looking to simplify your business process while improving sales and customer satisfaction?
+            </h1>
+
+          </div>
+        </div> <!-- / .row -->
+        <div class="row justify-content-center align-items-center">
+          <div class="col-12 col-md-8 col-lg-7 order-md-2">
+            <div class="text-center" data-toggle="animation" data-animation="fadeUp" data-animation-order="2" data-animation-trigger="load">
+            
+              <a href="#theibr" class="btn btn-outline-info text-white">
+                Learn More
+              </a>
+            
+            </div>
+          </div>
+        </div>
+      </div> <!-- / .container -->
+    
+    </section>
+
+    <section class="section" id="theibr">
+      
+      <div class="bg-cover" style="background-color: black;"></div>
+      <div class="bg-overlay"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-top bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-top bg-triangle-right"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
+      <!-- Content -->
+      <div class="container">
+         <div class="row justify-content-center">
+          <div class="col-md-8 col-lg-6">
+
+            <!-- Heading -->
+            <h2 class="text-white text-center mb-4">
+             The InTown Business Review "I.B.R."
+            </h2>
+
+          </div>
+        </div> <!-- / .row -->
+        <br>
+        <div class="row justify-content-center" data-toggle="animation" data-animation="fadeUp" data-animation-order="3" data-animation-trigger="load">
+          <div class="col-md-12 col-lg-8">
+            <!-- Card -->
+            <div class="card card-lg card-active bg-black mb-3 mb-lg-0">
+              <!-- Body -->
+              <div class="card-body text-center">
+                <!-- Text -->
+                <ul class="card-text text-white list-iconed" id="reading">
+                  <li class="list-iconed-item">
+                    The InTown Business Review is the crème de la crème for determining overall business ability.
+                  </li>
+                  <li class="list-iconed-item">
+                    The IBR ensures that you piece together the essential parts of an efficient business, and locate opportunities to build for the future.
+                  </li>
+                  <li class="list-iconed-item">
+                    We conducted extensive research of the best businesses in the world; and gathered expert research from top companies, and universities. 
+                  </li>
+                  <li class="list-iconed-item">
+                    Secure payments through our InTown 100% money back guarantee. Includes FREE consultation.
+                  </li>
+                </ul>
+
+                <!-- Price -->
+                <h3 class="card-title text-white font-weight-normal">
+                  $499.00
+                </h3>
+                
+                <div class="text-center">
+                  
+                  <a href="mailto:sheldon@intowntechnology.com?subject=The InTown Business Review!&body=I am interested in scheduling an IBR. Please provide more information." class="btn btn-outline-info text-white">
+                    Schedule the Free "I.B.R." Consultation
+                  </a>
+                  
+                </div>
+              </div>
+            </div> <!-- / .card -->
+          </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+      
+    </section>
+    
+    <section class="section">
+      
+      <div class="bg-cover" style="background-color: black;"></div>
+      <div class="bg-overlay"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-top bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-top bg-triangle-right"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
+      <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-right"></div>
+      
+      <div class="row" style="padding-left: 20px; padding-right: 20px; padding-top: 0px; padding-bottom: 0px;" data-toggle="animation" data-animation="fadeUp" data-animation-order="4" data-animation-trigger="load">
+        <div class="col-md-4">
+
+            <!-- Item -->
+            <div class="text-center mb-5 mb-md-0">
+
+              <!-- Icon -->
+              <div class="text-primary mb-4">
+                <span class="icon-devices icon-2x color-blue"></span>
+              </div>
+
+              <!-- Heading -->
+              <h4 class="text-white mb-3">
+                Highest Standards of Work
+              </h4>
+
+              <!-- Content -->
+              <p class="text-white text-muted mb-4">
+                InTown guarantees quality. Our developers are constantly improving their skills to stay abreast with the ever changing business world and technology environment.
+              </p>
+
+            </div>
+
+          </div>
+          <div class="col-md-4">
+
+            <!-- Item -->
+            <div class="text-center mb-5 mb-md-0">
+
+              <!-- Icon -->
+              <div class="text-primary mb-4">
+                <span class="icon-shield icon-2x color-blue"></span>
+              </div>
+
+              <!-- Heading -->
+              <h4 class="text-white mb-3">
+                Built with Security
+              </h4>
+
+              <!-- Content -->
+              <p class="text-white text-muted mb-1">
+                All of our products are created with a security first mindset. Information security is a high priority.
+              </p>
+
+            </div>
+
+          </div>
+          <div class="col-md-4">
+
+            <!-- Item -->
+            <div class="text-center">
+
+              <!-- Icon -->
+              <div class="text-primary mb-4">
+                <span class="icon icon-support icon-2x color-blue"></span>
+              </div>
+
+              <!-- Heading -->
+              <h4 class="text-white mb-3">
+                Customer support
+              </h4>
+
+              <!-- Content -->
+              <p class="text-white text-muted mb-1">
+                Feel free to contact us with any feature requests or question. Our support staff is available around the clock to help you succeed.
+              </p>
+
+            </div>
+        </div> <!-- / .row -->
+      </div> <!-- / .container -->
+      <br>
+      <br>
+      <br>
+    </section>
+
+          <div class="modal fade" id="intownearth" tabindex="-1" role="dialog" aria-labelledby="InTown" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="intownearthlabel">The Future is InTown</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+      
+              <div class="modal-body">
+        
+                <p>
+                  InTown’s current core offering is called the InTown Business Review. Our focus is simple, take the hassle out of having a modern business, and allow businesses to focus on their specialty.
+                </p>
+                <p>
+                  Many businesses are very talented and have great business ideas, but face many business problems that they can’t solve on their own. InTown is combatting this problem by the creation of our all-in-one business solution the “I.B.R.” We recommend completing an I.B.R. at least yearly.
+                </p>
+                <p>
+                  Along with the InTown Business Review, I.T. is developing a socially responsible community of products, services, businesses, and leaders to support the advancement of the future. Support our efforts by purchasing an InTown Business Review.
+                </p>
+                <p>
+                  - Sheldon Miller, MBA
+                </p>
+              
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+          </div>
+    
+          <div class="modal fade" id="intownvip" tabindex="-1" role="dialog" aria-labelledby="InTown" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content" style="background-color: black;">
+              <div class="modal-header">
+                <h5 class="modal-title" id="intownviplabel">The InTown Spotlight</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+      
+              <div class="modal-body">
+       <p>  <img src="assets/img/intownvip.png" class="img-fluid text-center"></p> 
+      </div>
+      <div class="modal-footer">
+        <a type="button" class="btn btn-secondary" href="https://instagram.com/intownvip" target="_blank">Open Instagram</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+ <div class="modal fade" id="mmmpage" tabindex="-1" role="dialog" aria-labelledby="InTown" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content" style="background-color: whitesmoke;">
+              <div class="modal-header">
+                <h5 class="modal-title" id="mmmpagelabel"><img src="assets/img/logonav1.png" class="img-fluid" style="height:60px;"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+      <div class="modal-body">
+        <div id="accordion">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn text-white collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+         LIST OF OPS
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+        
+                <a class="dropdown-item ">
+                  MERGERS AND ACQUISITIONS
+                </a>
+                <a class="dropdown-item ">
+                  EXECUTIVE MANAGEMENT
+                </a>
+                <a class="dropdown-item ">
+                  INVESTMENTS
+                </a>
+                <a class="dropdown-item ">
+                  STAFFING
+                </a>
+
+      </div>
+    </div>
+  </div>
+ <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn text-white collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        BUSINESS PROFILE
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+
+        MMM exists to oversee the InTown brand. Our operations include mergers and acquisitions, executive management, investments, and staffing.
+
+      </div>
+    </div>
+  </div>
+
+          
+  <div class="card">
+    
+    <div class="card-header" id="headingThree">
+      
+      <h5 class="mb-0">
+        
+        <button class="btn text-white collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          JOBS
+        </button>
+        
+      </h5>
+      
+    </div>
+    
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+        <div class="container">
+          <p> 
+            We are currently hiring for the following roles: if interested in any of the below roles please complete the onboarding request form.  
+          </p>
+        </div>
+        
+        
+        <div class="card">
+
+          
+    <div class="card-header" id="headingFour">
+      <h3 class="mb-0">
+        <button class="btn text-black collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        Ambassador of Sales
+        </button>
+      </h3>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#collapseThree">
+      <div class="card-body">
+
+       <p> Customer facing role with many growth opportunities. Part-time role with high income for very exceptional people. Training and development provided. </p>
+               <p style="text-align: center;">
+                 <!-- Button -->
+                 <a href="https://www.intowntechnology.com/onboardingsa.html" class="btn btn-outline-dark" style=" color: black; align: center; text-color: black;" target="_blank">
+                   Apply Here
+                 </a>
+               </p>
+
+      </div>
+    </div>
+  </div>
+
+         <div class="card">
+
+          
+    <div class="card-header" id="headingFour">
+      <h3 class="mb-0">
+        <button class="btn text-black collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFour">
+        General
+        </button>
+      </h3>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFour" data-parent="#collapseThree">
+      <div class="card-body">
+
+       <p> Submit a general application to be notified of new roles InTown. </p>
+         <p style="text-align: center;">
+        <!-- Button -->
+        <a href="https://www.intowntechnology.com/onboarding.html" class="btn btn-outline-dark" style=" color: black; align: center; text-color: black;" target="_blank">
+          Apply Here
+        </a>
+         </p>
+
+      </div>
+    </div>
+  </div>
+      </br>
+                
+                <div class="container" id="top">
+                        
+                        <p> No roles found...</p>
+                
+                </div>
+                
+                <div class="container">
+                
+                        <p> There are currently no additional positions publicly available. Please check back for new roles available to the public or submit a general application.</p>
+                
+                </div>
+    
+      </div>
+    </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+            </div>
+          </div>
+ </div>
+       
+    <footer class="section" style="text-align: center; padding: 10px; background-color: black;">
+    
+      <nav class="navbar navbar-expand-xl navbar-black navbar-togglable fixed-bottom" style="background-color: black;">
+        
+        <div class="container">
+          
+          <a class="navbar-brand" data-toggle="modal" data-target="#intownearth">
+            <img src="assets/img/intownearth.png" class="img-fluid text-center">
+          </a>
+
+           <a class="navbar-brand" data-toggle="modal" data-target="#intownvip">
+            <img src="assets/img/intowncity.png" class="img-fluid text-center">
+          </a>
+          <a class="navbar-brand" data-toggle="modal" data-target="#mmmpage">
+            <img src="assets/img/logonav1.png" class="img-fluid text-center">
+          </a>
+        
+        </div>
+        
+      </nav>
+      
+    </footer>
+
+    <!-- JAVASCRIPT================================================== -->
+    
+    <script src="assets/libs/jquery/dist/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnKt8_N4-FKOnhI_pSaDL7g_g-XI1-R9E"></script>
+
+    <!-- Plugins JS -->
+    <script src="assets/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/libs/flickity/dist/flickity.pkgd.min.js"></script>
+    <script src="assets/libs/flickity-fade/flickity-fade.js"></script>
+    <script src="assets/libs/jquery-parallax.js/parallax.min.js"></script>
+    <script src="assets/libs/waypoints/lib/jquery.waypoints.min.js"></script>
+    <script src="assets/libs/waypoints/lib/shortcuts/inview.min.js"></script>
+    <script src="assets/libs/fullpage.js/vendors/scrolloverflow.min.js"></script>
+    <script src="assets/libs/fullpage.js/dist/fullpage.min.js"></script>
+    <script src="assets/libs/highlightjs/highlight.pack.min.js"></script>
+
+    <!-- Theme JS -->
+    <script src="assets/js/theme.min.js"></script>
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" href="assets/img/earth.png">
+    <script src="https://kit.fontawesome.com/b22a6013dc.js" crossorigin="anonymous"></script>
+
+  </body>
+</html>
